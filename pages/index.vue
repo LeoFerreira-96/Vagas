@@ -32,7 +32,6 @@ export default {
 <style>
 body {
   background-color: #010b29;
-  overflow: hidden;
 }
 .displayed {
   width: 15%;
