@@ -1,5 +1,3 @@
-# the-universe
-
 # Front-end
 
 Este WebApp serve para ler uma Api de cadastro onde podemos informações basicas sobre os planetas do sistema solar,podemos modificar os textos se necessario, como por exemplo nome e descrição.
