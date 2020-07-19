@@ -1,3 +1,1 @@
-web: npm install
-web: sucrase ./src -d ./dist --transforms imports
-web: npm run start
+web: node ./dist/server.js
