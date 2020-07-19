@@ -46,7 +46,7 @@ export default {
    ** See https://axios.nuxtjs.org/options
    */
   axios: {
-    baseURL:'http://localhost:9000'
+    baseURL:'http://the-univers.herokuapp.com'
   },
   /*
    ** Build configuration
