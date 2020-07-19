@@ -1,22 +1,28 @@
 # the-universe
 
-> My gnarly Nuxt.js project
+# Front-end
 
-## Build Setup
+Este WebApp serve para ler uma Api de cadastro onde podemos informações basicas sobre os planetas do sistema solar,podemos modificar os textos se necessario, como por exemplo nome e descrição.
 
-```bash
-# install dependencies
-$ yarn install
+O intuito é demonstrar meus conhecimentos em vue.js construindo este webApp.
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+# Começando
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+Para executar o projeto, será necessário instalar os seguintes Softwares:
 
-# generate static project
-$ yarn generate
+- node
+- yarn
+
+# Testes
+
+Para rodar o projeto, utilize o comando abaixo:
+
+```
+$ yarn
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+```
+$ yarn dev
+```
+
+Pronto !!! está funcionando para fazer os testes.
