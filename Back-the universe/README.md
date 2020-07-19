@@ -1,8 +1,8 @@
 # Back-end
 
-Esta Api serve para simular o cadastros de Posts em um Blog, onde pode ser realizado o cadastro dos Posts com suas respectivas categorias.
+Esta Api serve para simular a leitura de algun cadastro onde podemos ler todos, porem alterar somente nome e descrição.
 
-O intuito é demonstrar meus conhecimentos em back-end construindo um CRUD (create/read/update/delete).
+O intuito é demonstrar meus conhecimentos em node.js construindo um  backend/CRUD (create/read/update/delete).
 
 # Começando
 
